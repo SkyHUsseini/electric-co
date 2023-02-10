@@ -313,7 +313,7 @@ body {
   height: fit-content;
 }
 .product-card-wrapper {
-  height: 80vh;
+  height: 60vh;
   position: relative;
 }
 @media (min-width: 50em) {
